@@ -1,10 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:intl/number_symbols_data.dart';
-import 'package:table_calendar/table_calendar.dart';
-import 'package:intl/date_symbol_data_local.dart';
-import 'package:hello_fultter/firstTab.dart';
-import 'package:hello_fultter/secondTab.dart';
-import 'package:hello_fultter/thirdTab.dart';
+import 'package:flutter_week01/firstTab.dart';
+import 'package:flutter_week01/secondTab.dart';
+import 'package:flutter_week01/thirdTab.dart';
 
 void main() {
   runApp(MyApp());
